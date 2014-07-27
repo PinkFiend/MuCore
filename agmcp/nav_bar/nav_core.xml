@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<nav_master>
+ <nav_cat title="Game Master Menu" group="1">
+  <nav_option link="index.php?get=credits_manager" group="1">MU Coins Manager</nav_option>
+  <nav_option link="index.php?get=smucoins_manager" group="1">Soul Coins Manager</nav_option>
+  <nav_option link="index.php?get=smucoins_add" group="1">Add Soul Coins</nav_option>
+  <nav_option link="index.php?get=edit_character" group="1">Search Character's ID</nav_option>
+<nav_option link="index.php?get=edit_account" group="1">Search Account's Characters</nav_option>
+  <nav_option link="index.php?get=search_ip_account" group="1">Search IP Using Account</nav_option>
+  <nav_option link="index.php?get=search_account_ip" group="1">Search Account Using IP</nav_option>
+  <nav_option link="index.php?get=ban_manager" group="1">Ban Manager</nav_option>
+  <nav_option link="index.php?get=filter_ip" group="1">Ban IPs</nav_option>
+ </nav_cat>
+ <nav_cat title="Check Logs" group="2">
+  <nav_option link="index.php?get=webshop_logs" group="2">Check Premium Webshop Logs</nav_option>
+  <nav_option link="index.php?get=swebshop_logs" group="2">Check Soul Webshop Logs</nav_option>
+ </nav_cat>
+</nav_master>

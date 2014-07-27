@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<reset_settings>
+<active>1</active>
+<level>400</level>
+<zen>150000000</zen>
+<bpoints>200</bpoints>
+<bpoints_formula>0</bpoints_formula>
+<clear_skills>0</clear_skills>
+<clear_inv>0</clear_inv>
+<reset_stats>0</reset_stats>
+<reset_limit>1000</reset_limit>
+</reset_settings>

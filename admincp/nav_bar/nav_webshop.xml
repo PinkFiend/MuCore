@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<nav_master>
+<nav_cat title="MuCore  Webshop" group="10">
+<nav_option link="index.php?get=webshop_settings" group="10">Settings</nav_option>
+<nav_option link="index.php?get=webshop_item_manager" group="10">Item Settings</nav_option>
+<nav_option link="index.php?get=webshop_export" group="10">Export Items</nav_option>
+<nav_option link="index.php?get=webshop_logs" group="10">WebShop Logs</nav_option>
+</nav_cat>
+</nav_master>

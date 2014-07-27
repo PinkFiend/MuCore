@@ -1,0 +1,1 @@
+alter table Character add Grand_Resets int not null default 0

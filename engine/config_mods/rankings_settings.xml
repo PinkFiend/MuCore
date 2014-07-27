@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rankings>
+<active>1</active>
+<cron_job_1>1</cron_job_1>
+<cron_job_2>2</cron_job_2>
+<cron_job_3>3</cron_job_3>
+<char_top>15</char_top>
+<guilds_top>15</guilds_top>
+<gm>0</gm>
+<char_status>1</char_status>
+<location>1</location>
+<hide_stats>0</hide_stats>
+</rankings>

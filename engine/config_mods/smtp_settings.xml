@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<smtp>
+<smtp_server></smtp_server>
+<smtp_username></smtp_username>
+<smtp_password></smtp_password>
+<smtp_port></smtp_port>
+<smtp_connection>none</smtp_connection>
+</smtp>

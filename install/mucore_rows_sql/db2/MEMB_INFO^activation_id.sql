@@ -1,0 +1,1 @@
+alter table memb_info add activation_id varchar(50) null

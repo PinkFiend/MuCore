@@ -1,0 +1,1 @@
+alter table memb_info add Gender int null

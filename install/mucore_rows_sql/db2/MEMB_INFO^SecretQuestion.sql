@@ -1,0 +1,1 @@
+alter table memb_info add SecretQuestion int null

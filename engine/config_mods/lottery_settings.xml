@@ -1,0 +1,50 @@
+<?
+require("VoteLottery_Config.php");
+$name = $_SESSION['user_auth_id'];
+$q = mssql_query("Select Coupon from MEMB_INFO where memb___id='$name'");
+$row = mssql_fetch_row($q);
+$g = mssql_query("Select * from VoteBag where Name='$name'");
+$uc = mssql_num_rows($g);
+if(!$_GET["name"])
+{
+
+?>
+<div align="center">
+  <table width="404" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="214"><div align="center"><strong>Coupons</strong></div></td>
+      <td width="190"><div align="center"><?
+	  echo($row[0]);
+	    ?></div></td>
+    </tr>
+    <tr>
+      <td><div align="center"><strong>Used Coupons </strong></div></td>
+      <td><div align="center">
+        <?
+	  echo($uc);
+	    ?>
+      </div></td>
+    </tr>
+  </table>
+  <p><br />
+    Do you want to add a Coupon in the Vote Bag ? <br />
+    <a href="index.php?page_id=user_cp&amp;panel=Vote_Lottery&amp;name=<? echo($name); ?>">Click here to add a Coupon in the Bag. </a></p>
+</div>
+<?
+}
+else
+{
+if($row[0] <= "1")
+{
+echo("You have no enoght Coupons.");
+}
+else
+{
+$cc = $row[0]-1;
+$ucc = $uc+1;
+mssql_query("Update MEMB_INFO set Coupon='$cc' where memb___id='$name'");
+mssql_query("Insert into VoteBag(Name) values('".$name."');");
+echo("You have now ".$ucc." Coupons in the Vote Bag.");
+}
+}
+?>

@@ -1,0 +1,1 @@
+alter table Character add mu_id int identity

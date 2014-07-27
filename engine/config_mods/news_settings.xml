@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<news_settings>
+<active>1</active>
+ <news_style>0</news_style>
+ <news_short_long>140</news_short_long>
+ <news_bookmarking>1</news_bookmarking>
+</news_settings>

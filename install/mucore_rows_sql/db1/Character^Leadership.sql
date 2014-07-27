@@ -1,0 +1,1 @@
+alter table Character add Leadership smallint null default 0

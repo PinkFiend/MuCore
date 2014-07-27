@@ -1,0 +1,1 @@
+INSERT INTO MUCore_Cron_Jobs (name,cron_id,next_cron,cron_time_set) VALUES ('Rankings All Characters','1','1','3600')

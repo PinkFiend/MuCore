@@ -1,0 +1,1 @@
+alter table Character add Resets int not null default 0

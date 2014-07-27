@@ -1,0 +1,1 @@
+alter table memb_info add memb_guid int IDENTITY (1, 1) NOT NULL

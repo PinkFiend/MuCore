@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+	<nav_master>
+
+	<nav_cat title="Web Configurations" group="0">
+<nav_option link="index.php?get=website_settings" group="0">Website Settings</nav_option>
+<nav_option link="index.php?get=register_settings" group="0">Register Settings</nav_option>
+<nav_option link="index.php?get=lostpassword_settings" group="0">Lost Password Settings</nav_option>
+<nav_option link="index.php?get=smtp_settings" group="0">SMTP Settings</nav_option>
+<nav_option link="index.php?get=contact_settings" group="0">Contact Us Settings</nav_option>
+<nav_option link="index.php?get=cron_jobs" group="0">Cron Job Settings</nav_option>
+<nav_option link="index.php?get=human_verification" group="0">Human Verification Settings</nav_option>
+<nav_option link="index.php?get=mucore_backup" group="0">MuCore Backup Settings</nav_option>
+	</nav_cat>
+
+	<nav_cat title="Bizarre Mind Networks" group="0.1">
+<nav_option link="index.php?get=bmnxat" group="0.1">Bizarre Mind Networks Admins Chat</nav_option>
+<nav_option link="index.php?get=donate4bmn" group="0.1">Donate To Bizarre Mind Networks</nav_option>
+	</nav_cat>
+
+	<nav_cat title="SEO Optimization" group="1">
+<nav_option link="index.php?get=seo_head_tags" group="1">Head Tags</nav_option>
+<nav_option link="index.php?get=seo_stimemaps" group="1">Sitemap</nav_option>
+	</nav_cat>
+
+	<nav_cat title="Administration Options" group="2">
+<nav_option link="index.php?get=gm_panel" group="2">GM Control Panel Access</nav_option>
+<nav_option link="index.php?get=agm_panel" group="2">AGM Control Panel Access</nav_option>
+<nav_option link="index.php?get=edit_character" group="2">Search Character</nav_option>
+<nav_option link="index.php?get=edit_account" group="2">Search Account</nav_option>
+<nav_option link="index.php?get=search_ip_account" group="2">Search IP Using Account</nav_option>
+<nav_option link="index.php?get=search_account_ip" group="2">Search Account Using IP</nav_option>
+<nav_option link="index.php?get=ban_manager" group="2">Ban Management</nav_option>
+<nav_option link="index.php?get=filter_ip" group="2">IP Filter</nav_option>
+<nav_option link="index.php?get=mucoins_manager" group="2">Credits Management</nav_option>
+<nav_option link="index.php?get=mucoins_add" group="2">Add Credits</nav_option>
+<nav_option link="index.php?get=users_activate" group="2">Users Awaiting Activation</nav_option>
+	</nav_cat>
+
+	<nav_cat title="Content Management" group="3">
+<nav_option link="index.php?get=news_manager" group="3">News Management</nav_option>
+<nav_option link="index.php?get=news_settings" group="3">News Settings</nav_option>
+<nav_option link="index.php?get=announcements_manager" group="3">Announcement Management</nav_option>
+<nav_option link="index.php?get=announcements_settings" group="3">Announcement Settings</nav_option>
+<nav_option link="index.php?get=rss_feed" group="3">RSS Feed Settings</nav_option>
+<nav_option link="index.php?get=downloads_manager" group="3">Download Management</nav_option>
+	</nav_cat>
+
+	<nav_cat title="Donation Systems" group="4">
+<nav_option link="index.php?get=donate_paypal_settings" group="4">Manage Paypal Donations</nav_option>
+<nav_option link="index.php?get=doante_paypal_manager" group="4">Manage Paypal Donation Packages</nav_option>
+<nav_option link="index.php?get=doante_paypal_transactions" group="4">Paypal Transactions</nav_option>
+<nav_option link="index.php?get=daopay&amp;sys=settings" group="4">DaoPay Donation Settings</nav_option>
+<nav_option link="index.php?get=daopay&amp;sys=manager" group="4">Manage DaoPay Donation Packages</nav_option>
+<nav_option link="index.php?get=daopay&amp;sys=transactions" group="4">DaoPay Transactions</nav_option>
+	</nav_cat>
+
+	<nav_cat title="Modules Management [Site]" group="5">
+<nav_option link="index.php?get=add_module" group="5">Add Module</nav_option>
+<nav_option link="index.php?get=edit_modules" group="5">Edit Module</nav_option>
+<nav_option link="index.php?get=add_page" group="5">Add Page</nav_option>
+<nav_option link="index.php?get=edit_pages" group="5">Edit Pages</nav_option>
+<nav_option link="index.php?get=castle_siege" group="5">Castle Siege Settings</nav_option>
+<nav_option link="index.php?get=rankings_settings" group="5">Raking Settings</nav_option>  
+	</nav_cat>
+
+	<nav_cat title="Modules Management [User]" group="6">
+<nav_option link="index.php?get=add_module_user" group="6">Add Module [UserCP]</nav_option>  
+<nav_option link="index.php?get=edit_modules_user" group="6">Edit Modules [UserCP]</nav_option>
+<nav_option link="index.php?get=usercp_mu_account_settings" group="6">Account Settings</nav_option>
+<nav_option link="index.php?get=usercp_add_points_settings" group="6">Add Points Settings</nav_option>
+<nav_option link="index.php?get=usercp_clear_inventory_settings" group="6">Clean Inventory Settings</nav_option>
+<nav_option link="index.php?get=usercp_clear_pk_settings" group="6">Clear PK Settings</nav_option>
+<nav_option link="index.php?get=usercp_clear_skills_settings" group="6">Clear Skill Settings</nav_option>
+<nav_option link="index.php?get=usercp_grandreset_character_settings" group="6">Grand Reset Settings</nav_option>
+<nav_option link="index.php?get=usercp_mu_coins_settings" group="6">Credits Settings</nav_option>
+<nav_option link="index.php?get=usercp_reset_character_settings" group="6">Character Reset Settings</nav_option>
+<nav_option link="index.php?get=usercp_reset_stats_settings" group="6">Reset Stats Settings</nav_option>
+<nav_option link="index.php?get=usercp_unstuck_character_settings" group="6">Unstuck Character Settings</nav_option>
+	</nav_cat>
+
+	<nav_cat title="MuCore Page Style" group="7">
+  <nav_option link="index.php?get=cms_global_options" group="7">Global Options</nav_option>
+  <nav_option link="index.php?get=cms_style_options" group="7">Style Options</nav_option>
+	</nav_cat>
+
+	<nav_cat title="Maintenance" group="8">
+   <nav_option link="index.php?get=maintenance&amp;sys=webserver" group="8">Webserver Statistics</nav_option>
+   <nav_option link="index.php?get=maintenance&amp;sys=gameserver" group="8">Game Server Statistics</nav_option>
+   <nav_option link="index.php?get=maintenance&amp;sys=empty" group="8">Delete Empty Accounts</nav_option>
+   <nav_option link="index.php?get=maintenance&amp;sys=inactive" group="8">Delete Inactive Accounts</nav_option>
+	</nav_cat>
+
+  <nav_cat title="Check Logs" group="9">
+   <nav_option link="index.php?get=logs_gm_access" group="9">GM Access Logs</nav_option>
+   <nav_option link="index.php?get=logs_agm_access" group="9">AGM Access Logs</nav_option>
+   <nav_option link="index.php?get=logs_gm_credits_manager" group="9">GM Credits Manager Log</nav_option>
+   <nav_option link="index.php?get=logs_agm_credits_manager" group="9">AGM Credits Manager Log</nav_option>
+   <nav_option link="index.php?get=logs_paypal_donate" group="9">PayPal Donation Logs</nav_option>
+<nav_option link="index.php?get=daopay&amp;sys=logs" group="9">DaoPay Donation Logs</nav_option>
+ </nav_cat>
+	</nav_master>

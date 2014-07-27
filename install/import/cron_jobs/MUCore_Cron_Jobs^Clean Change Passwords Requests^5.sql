@@ -1,0 +1,1 @@
+INSERT INTO MUCore_Cron_Jobs (name,cron_id,next_cron,cron_time_set) VALUES ('Clean Change Passwords Requests','5','1','21600')

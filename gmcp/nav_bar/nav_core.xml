@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<nav_master>
+<nav_cat title="Support Game Master Menu" group="1">
+<nav_option link="index.php?get=ban_manager" group="1">Ban Manager</nav_option>
+<nav_option link="index.php?get=credits_manager" group="1">MU Coins Manager</nav_option>
+<nav_option link="index.php?get=edit_character" group="1">Search Character's ID</nav_option>
+<nav_option link="index.php?get=edit_account" group="1">Search Account's Characters</nav_option>
+</nav_cat></nav_master>
