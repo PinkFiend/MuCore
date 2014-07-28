@@ -96,7 +96,7 @@ $core['db_password2'] = "SQL-Pass";
 
 $core['admin_username'] = 'Admin';
 
-$core['admin_password'] = 'test';
+$core['admin_password'] = '1234';
 
 #####################################################
 
