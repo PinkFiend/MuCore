@@ -1,140 +1,118 @@
-<?php
-//Obfuscation provided by FOPO - Free Online PHP Obfuscator v1.2: http://www.fopo.com.ar
-$td9e2b74c52c="\x62\141\x73\145\x36\64\x5f\144\x65\143\x6f\144\x65";@eval($td9e2b74c52c(
-"JHQ3OTVjMThhMTI5NjJlZmQ4NzIwZTlhZTIyM2FlMWEzPSJceDYyIjskYjQ1ZGE3NGJkZWY5YjE4OGE2Mjg2NWY
-wYmQ0NDFkNGU9Ilx4NjUiOyRqNjQyMzY3YzBiYjc1MGVmMjcyMzhhZGY5NTg3YzcxYT0iXHg2NiI7JG1jMDk0NjA
-zZDQxODQyNTA0ZDFlM2QxNzg5MGM2ODRkPSJceDY3Ijskb2RkNjcyMzZhZDUxNDBiNjk5YmQxOGNlM2FhZDA5NDE
-9Ilx4NmQiOyRpZjlmZjEzNWNiZmU4NGIyZTEzMGEwYWFkMTU4ZjAxNz0iXHg2ZiI7JHVmOTA3ZjUyNTNiNTI3ZDk
-1MTU3YjJhZmIwYzliZDJjPSJceDZmIjskaWE4NzhiZmNkNGRkMDk3ZmVlZTgxZWQ1Mjg2YWE2NTM9Ilx4NmYiOyR
-yOTQ4MzZiM2E5NGViNzA3OWU3ZmI0ZDA5YzQ2ZWE5Zj0iXHg2ZiI7JG43ZDExZDFjZGE5ZDhmMzJhMGU3ODkwNjY
-1NjVlOTMzPSJceDczIjskcDYwMjY2YzIyMzhjZTdlYjY2Y2FhMzJlNTRkZWQ5ODE9Ilx4NzMiOyRkYzkwNzY3MTA
-xNWQ0MjA4MTk3ZjY3YWJkYzNiOWY5Zj0iXHg3MyI7JGk4Yzc1MzVmNjBkZGVmNzk4MzUzYTQ5NDk1MjAyOTU5PSJ
-ceDczIjskdDc5NWMxOGExMjk2MmVmZDg3MjBlOWFlMjIzYWUxYTMuPSJcMTQxIjskYjQ1ZGE3NGJkZWY5YjE4OGE
-2Mjg2NWYwYmQ0NDFkNGUuPSJcMTYyIjskajY0MjM2N2MwYmI3NTBlZjI3MjM4YWRmOTU4N2M3MWEuPSJcMTUxIjs
-kbWMwOTQ2MDNkNDE4NDI1MDRkMWUzZDE3ODkwYzY4NGQuPSJcMTcyIjskb2RkNjcyMzZhZDUxNDBiNjk5YmQxOGN
-lM2FhZDA5NDEuPSJcMTQ0IjskaWY5ZmYxMzVjYmZlODRiMmUxMzBhMGFhZDE1OGYwMTcuPSJcMTQyIjskdWY5MDd
-mNTI1M2I1MjdkOTUxNTdiMmFmYjBjOWJkMmMuPSJcMTQyIjskaWE4NzhiZmNkNGRkMDk3ZmVlZTgxZWQ1Mjg2YWE
-2NTMuPSJcMTQyIjskcjk0ODM2YjNhOTRlYjcwNzllN2ZiNGQwOWM0NmVhOWYuPSJcMTQyIjskbjdkMTFkMWNkYTl
-kOGYzMmEwZTc4OTA2NjU2NWU5MzMuPSJcMTY0IjskcDYwMjY2YzIyMzhjZTdlYjY2Y2FhMzJlNTRkZWQ5ODEuPSJ
-cMTY0IjskZGM5MDc2NzEwMTVkNDIwODE5N2Y2N2FiZGMzYjlmOWYuPSJcMTY0IjskaThjNzUzNWY2MGRkZWY3OTg
-zNTNhNDk0OTUyMDI5NTkuPSJcMTY0IjskdDc5NWMxOGExMjk2MmVmZDg3MjBlOWFlMjIzYWUxYTMuPSJceDczIjs
-kYjQ1ZGE3NGJkZWY5YjE4OGE2Mjg2NWYwYmQ0NDFkNGUuPSJceDY1IjskajY0MjM2N2MwYmI3NTBlZjI3MjM4YWR
-mOTU4N2M3MWEuPSJceDZjIjskbWMwOTQ2MDNkNDE4NDI1MDRkMWUzZDE3ODkwYzY4NGQuPSJceDY5Ijskb2RkNjc
-yMzZhZDUxNDBiNjk5YmQxOGNlM2FhZDA5NDEuPSJceDM1IjskaWY5ZmYxMzVjYmZlODRiMmUxMzBhMGFhZDE1OGY
-wMTcuPSJceDVmIjskdWY5MDdmNTI1M2I1MjdkOTUxNTdiMmFmYjBjOWJkMmMuPSJceDVmIjskaWE4NzhiZmNkNGR
-kMDk3ZmVlZTgxZWQ1Mjg2YWE2NTMuPSJceDVmIjskcjk0ODM2YjNhOTRlYjcwNzllN2ZiNGQwOWM0NmVhOWYuPSJ
-ceDVmIjskbjdkMTFkMWNkYTlkOGYzMmEwZTc4OTA2NjU2NWU5MzMuPSJceDcyIjskcDYwMjY2YzIyMzhjZTdlYjY
-2Y2FhMzJlNTRkZWQ5ODEuPSJceDcyIjskZGM5MDc2NzEwMTVkNDIwODE5N2Y2N2FiZGMzYjlmOWYuPSJceDcyIjs
-kaThjNzUzNWY2MGRkZWY3OTgzNTNhNDk0OTUyMDI5NTkuPSJceDcyIjskdDc5NWMxOGExMjk2MmVmZDg3MjBlOWF
-lMjIzYWUxYTMuPSJcMTQ1IjskYjQ1ZGE3NGJkZWY5YjE4OGE2Mjg2NWYwYmQ0NDFkNGUuPSJcMTQ3IjskajY0MjM
-2N2MwYmI3NTBlZjI3MjM4YWRmOTU4N2M3MWEuPSJcMTQ1IjskbWMwOTQ2MDNkNDE4NDI1MDRkMWUzZDE3ODkwYzY
-4NGQuPSJcMTU2IjskaWY5ZmYxMzVjYmZlODRiMmUxMzBhMGFhZDE1OGYwMTcuPSJcMTQ1IjskdWY5MDdmNTI1M2I
-1MjdkOTUxNTdiMmFmYjBjOWJkMmMuPSJcMTQ1IjskaWE4NzhiZmNkNGRkMDk3ZmVlZTgxZWQ1Mjg2YWE2NTMuPSJ
-cMTQ3Ijskcjk0ODM2YjNhOTRlYjcwNzllN2ZiNGQwOWM0NmVhOWYuPSJcMTYzIjskbjdkMTFkMWNkYTlkOGYzMmE
-wZTc4OTA2NjU2NWU5MzMuPSJcMTM3IjskcDYwMjY2YzIyMzhjZTdlYjY2Y2FhMzJlNTRkZWQ5ODEuPSJcMTM3Ijs
-kZGM5MDc2NzEwMTVkNDIwODE5N2Y2N2FiZGMzYjlmOWYuPSJcMTYwIjskaThjNzUzNWY2MGRkZWY3OTgzNTNhNDk
-0OTUyMDI5NTkuPSJcMTY0IjskdDc5NWMxOGExMjk2MmVmZDg3MjBlOWFlMjIzYWUxYTMuPSJceDM2IjskYjQ1ZGE
-3NGJkZWY5YjE4OGE2Mjg2NWYwYmQ0NDFkNGUuPSJceDVmIjskajY0MjM2N2MwYmI3NTBlZjI3MjM4YWRmOTU4N2M
-3MWEuPSJceDVmIjskbWMwOTQ2MDNkNDE4NDI1MDRkMWUzZDE3ODkwYzY4NGQuPSJceDY2IjskaWY5ZmYxMzVjYmZ
-lODRiMmUxMzBhMGFhZDE1OGYwMTcuPSJceDZlIjskdWY5MDdmNTI1M2I1MjdkOTUxNTdiMmFmYjBjOWJkMmMuPSJ
-ceDZlIjskaWE4NzhiZmNkNGRkMDk3ZmVlZTgxZWQ1Mjg2YWE2NTMuPSJceDY1Ijskcjk0ODM2YjNhOTRlYjcwNzl
-lN2ZiNGQwOWM0NmVhOWYuPSJceDc0IjskbjdkMTFkMWNkYTlkOGYzMmEwZTc4OTA2NjU2NWU5MzMuPSJceDcyIjs
-kcDYwMjY2YzIyMzhjZTdlYjY2Y2FhMzJlNTRkZWQ5ODEuPSJceDcyIjskZGM5MDc2NzEwMTVkNDIwODE5N2Y2N2F
-iZGMzYjlmOWYuPSJceDZmIjskaThjNzUzNWY2MGRkZWY3OTgzNTNhNDk0OTUyMDI5NTkuPSJceDZmIjskdDc5NWM
-xOGExMjk2MmVmZDg3MjBlOWFlMjIzYWUxYTMuPSJcNjQiOyRiNDVkYTc0YmRlZjliMTg4YTYyODY1ZjBiZDQ0MWQ
-0ZS49IlwxNjIiOyRqNjQyMzY3YzBiYjc1MGVmMjcyMzhhZGY5NTg3YzcxYS49IlwxNDciOyRtYzA5NDYwM2Q0MTg
-0MjUwNGQxZTNkMTc4OTBjNjg0ZC49IlwxNTQiOyRpZjlmZjEzNWNiZmU4NGIyZTEzMGEwYWFkMTU4ZjAxNy49Ilw
-xNDQiOyR1ZjkwN2Y1MjUzYjUyN2Q5NTE1N2IyYWZiMGM5YmQyYy49IlwxNDQiOyRpYTg3OGJmY2Q0ZGQwOTdmZWV
-lODFlZDUyODZhYTY1My49IlwxNjQiOyRyOTQ4MzZiM2E5NGViNzA3OWU3ZmI0ZDA5YzQ2ZWE5Zi49IlwxNDEiOyR
-uN2QxMWQxY2RhOWQ4ZjMyYTBlNzg5MDY2NTY1ZTkzMy49IlwxNDUiOyRwNjAyNjZjMjIzOGNlN2ViNjZjYWEzMmU
-1NGRlZDk4MS49IlwxNTciOyRkYzkwNzY3MTAxNWQ0MjA4MTk3ZjY3YWJkYzNiOWY5Zi49IlwxNjMiOyRpOGM3NTM
-1ZjYwZGRlZjc5ODM1M2E0OTQ5NTIwMjk1OS49IlwxNTMiOyR0Nzk1YzE4YTEyOTYyZWZkODcyMGU5YWUyMjNhZTF
-hMy49Ilx4NWYiOyRiNDVkYTc0YmRlZjliMTg4YTYyODY1ZjBiZDQ0MWQ0ZS49Ilx4NjUiOyRqNjQyMzY3YzBiYjc
-1MGVmMjcyMzhhZGY5NTg3YzcxYS49Ilx4NjUiOyRtYzA5NDYwM2Q0MTg0MjUwNGQxZTNkMTc4OTBjNjg0ZC49Ilx
-4NjEiOyRpZjlmZjEzNWNiZmU4NGIyZTEzMGEwYWFkMTU4ZjAxNy49Ilx4NWYiOyR1ZjkwN2Y1MjUzYjUyN2Q5NTE
-1N2IyYWZiMGM5YmQyYy49Ilx4NWYiOyRpYTg3OGJmY2Q0ZGQwOTdmZWVlODFlZDUyODZhYTY1My49Ilx4NWYiOyR
-yOTQ4MzZiM2E5NGViNzA3OWU3ZmI0ZDA5YzQ2ZWE5Zi49Ilx4NzIiOyRuN2QxMWQxY2RhOWQ4ZjMyYTBlNzg5MDY
-2NTY1ZTkzMy49Ilx4NzAiOyRwNjAyNjZjMjIzOGNlN2ViNjZjYWEzMmU1NGRlZDk4MS49Ilx4NzQiOyR0Nzk1YzE
-4YTEyOTYyZWZkODcyMGU5YWUyMjNhZTFhMy49IlwxNDQiOyRiNDVkYTc0YmRlZjliMTg4YTYyODY1ZjBiZDQ0MWQ
-0ZS49IlwxNjAiOyRqNjQyMzY3YzBiYjc1MGVmMjcyMzhhZGY5NTg3YzcxYS49IlwxNjQiOyRtYzA5NDYwM2Q0MTg
-0MjUwNGQxZTNkMTc4OTBjNjg0ZC49IlwxNjQiOyRpZjlmZjEzNWNiZmU4NGIyZTEzMGEwYWFkMTU4ZjAxNy49Ilw
-xNDMiOyR1ZjkwN2Y1MjUzYjUyN2Q5NTE1N2IyYWZiMGM5YmQyYy49IlwxNDYiOyRpYTg3OGJmY2Q0ZGQwOTdmZWV
-lODFlZDUyODZhYTY1My49IlwxNDMiOyRyOTQ4MzZiM2E5NGViNzA3OWU3ZmI0ZDA5YzQ2ZWE5Zi49IlwxNjQiOyR
-uN2QxMWQxY2RhOWQ4ZjMyYTBlNzg5MDY2NTY1ZTkzMy49IlwxNTQiOyRwNjAyNjZjMjIzOGNlN2ViNjZjYWEzMmU
-1NGRlZDk4MS49Ilw2MSI7JHQ3OTVjMThhMTI5NjJlZmQ4NzIwZTlhZTIyM2FlMWEzLj0iXHg2NSI7JGI0NWRhNzR
-iZGVmOWIxODhhNjI4NjVmMGJkNDQxZDRlLj0iXHg2YyI7JGo2NDIzNjdjMGJiNzUwZWYyNzIzOGFkZjk1ODdjNzF
-hLj0iXHg1ZiI7JG1jMDk0NjAzZDQxODQyNTA0ZDFlM2QxNzg5MGM2ODRkLj0iXHg2NSI7JGlmOWZmMTM1Y2JmZTg
-0YjJlMTMwYTBhYWQxNThmMDE3Lj0iXHg2YyI7JHVmOTA3ZjUyNTNiNTI3ZDk1MTU3YjJhZmIwYzliZDJjLj0iXHg
-2YyI7JGlhODc4YmZjZDRkZDA5N2ZlZWU4MWVkNTI4NmFhNjUzLj0iXHg2ZiI7JG43ZDExZDFjZGE5ZDhmMzJhMGU
-3ODkwNjY1NjVlOTMzLj0iXHg2MSI7JHA2MDI2NmMyMjM4Y2U3ZWI2NmNhYTMyZTU0ZGVkOTgxLj0iXHgzMyI7JHQ
-3OTVjMThhMTI5NjJlZmQ4NzIwZTlhZTIyM2FlMWEzLj0iXDE0MyI7JGI0NWRhNzRiZGVmOWIxODhhNjI4NjVmMGJ
-kNDQxZDRlLj0iXDE0MSI7JGo2NDIzNjdjMGJiNzUwZWYyNzIzOGFkZjk1ODdjNzFhLj0iXDE0MyI7JGlmOWZmMTM
-1Y2JmZTg0YjJlMTMwYTBhYWQxNThmMDE3Lj0iXDE0NSI7JHVmOTA3ZjUyNTNiNTI3ZDk1MTU3YjJhZmIwYzliZDJ
-jLj0iXDE2NSI7JGlhODc4YmZjZDRkZDA5N2ZlZWU4MWVkNTI4NmFhNjUzLj0iXDE1NiI7JG43ZDExZDFjZGE5ZDh
-mMzJhMGU3ODkwNjY1NjVlOTMzLj0iXDE0MyI7JHQ3OTVjMThhMTI5NjJlZmQ4NzIwZTlhZTIyM2FlMWEzLj0iXHg
-2ZiI7JGI0NWRhNzRiZGVmOWIxODhhNjI4NjVmMGJkNDQxZDRlLj0iXHg2MyI7JGo2NDIzNjdjMGJiNzUwZWYyNzI
-zOGFkZjk1ODdjNzFhLj0iXHg2ZiI7JGlmOWZmMTM1Y2JmZTg0YjJlMTMwYTBhYWQxNThmMDE3Lj0iXHg2MSI7JHV
-mOTA3ZjUyNTNiNTI3ZDk1MTU3YjJhZmIwYzliZDJjLj0iXHg3MyI7JGlhODc4YmZjZDRkZDA5N2ZlZWU4MWVkNTI
-4NmFhNjUzLj0iXHg3NCI7JG43ZDExZDFjZGE5ZDhmMzJhMGU3ODkwNjY1NjVlOTMzLj0iXHg2NSI7JHQ3OTVjMTh
-hMTI5NjJlZmQ4NzIwZTlhZTIyM2FlMWEzLj0iXDE0NCI7JGI0NWRhNzRiZGVmOWIxODhhNjI4NjVmMGJkNDQxZDR
-lLj0iXDE0NSI7JGo2NDIzNjdjMGJiNzUwZWYyNzIzOGFkZjk1ODdjNzFhLj0iXDE1NiI7JGlmOWZmMTM1Y2JmZTg
-0YjJlMTMwYTBhYWQxNThmMDE3Lj0iXDE1NiI7JHVmOTA3ZjUyNTNiNTI3ZDk1MTU3YjJhZmIwYzliZDJjLj0iXDE
-1MCI7JGlhODc4YmZjZDRkZDA5N2ZlZWU4MWVkNTI4NmFhNjUzLj0iXDE0NSI7JHQ3OTVjMThhMTI5NjJlZmQ4NzI
-wZTlhZTIyM2FlMWEzLj0iXHg2NSI7JGo2NDIzNjdjMGJiNzUwZWYyNzIzOGFkZjk1ODdjNzFhLj0iXHg3NCI7JGl
-hODc4YmZjZDRkZDA5N2ZlZWU4MWVkNTI4NmFhNjUzLj0iXHg2ZSI7JGo2NDIzNjdjMGJiNzUwZWYyNzIzOGFkZjk
-1ODdjNzFhLj0iXDE0NSI7JGlhODc4YmZjZDRkZDA5N2ZlZWU4MWVkNTI4NmFhNjUzLj0iXDE2NCI7JGo2NDIzNjd
-jMGJiNzUwZWYyNzIzOGFkZjk1ODdjNzFhLj0iXHg2ZSI7JGlhODc4YmZjZDRkZDA5N2ZlZWU4MWVkNTI4NmFhNjU
-zLj0iXHg3MyI7JGo2NDIzNjdjMGJiNzUwZWYyNzIzOGFkZjk1ODdjNzFhLj0iXDE2NCI7JGo2NDIzNjdjMGJiNzU
-wZWYyNzIzOGFkZjk1ODdjNzFhLj0iXHg3MyI7JHI5NDgzNmIzYTk0ZWI3MDc5ZTdmYjRkMDljNDZlYTlmKCk7aWY
-oJG9kZDY3MjM2YWQ1MTQwYjY5OWJkMThjZTNhYWQwOTQxKCRiNDVkYTc0YmRlZjliMTg4YTYyODY1ZjBiZDQ0MWQ
-0ZSgiXHg1Y1w1MFx4MjJcMTMzXHgzMFw1NVx4MzlcMTAxXHgyZFwxMzJceDYxXDU1XHg3YVwxMzRceDJiXDU3XHg
-zZFwxMzVceDJhXDQyXHg1Y1w1MSIsIlx4MjhcNDJceDIyXDUxIiwkbjdkMTFkMWNkYTlkOGYzMmEwZTc4OTA2NjU
-2NWU5MzMoIlxyXG4iLCIiLCRqNjQyMzY3YzBiYjc1MGVmMjcyMzhhZGY5NTg3YzcxYSgkaThjNzUzNWY2MGRkZWY
-3OTgzNTNhNDk0OTUyMDI5NTkoX19GSUxFX18sIlx4MjgiKSkpKSk9PSJceDY1XDY3XHgzOFwxNDFceDM2XDYyXHg
-zMlw2Mlx4MzRcNzFceDMwXDYwXHgzOFwxNDRceDM5XDE0MVx4MzBcMTQ2XHg2MVw2MFx4MzlcMTQ1XHgzNFwxNDJ
-ceDM4XDE0NVx4MzhcMTQxXHg2MlwxNDJceDM2XDE0NiIpe0BldmFsKCRtYzA5NDYwM2Q0MTg0MjUwNGQxZTNkMTc
-4OTBjNjg0ZCgkdDc5NWMxOGExMjk2MmVmZDg3MjBlOWFlMjIzYWUxYTMoJHA2MDI2NmMyMjM4Y2U3ZWI2NmNhYTM
-yZTU0ZGVkOTgxKCJtSXhBbzlmNFJpMGVIbFdLa0xId2s3MFl6ejFmNUQ3cVlDTWoxMm1FY1lwNDFWSU9GTUVTRVB
-XMVdTS1VKQmsvM2xSY2xFK2tSbXNhWGw1QVI0aHByRWtrNXQxYXpaVGVWc2ltcnNlellRZ0N4aVpzdXovdkEweDZ
-tV1lmeVpLZmFaSmE4bmlPTUdGNk9CUU1acXJuenJCdzZMcXNvejQvTy93TXBRVUdqTXFyN21wN21wZVhZWWVjK29
-FSnVNODdMeGNXT0paVnVmUlNVWXhNK21GWFBsN2hWd3ZPYS90OXpXbWUwcE5DYnF3aTJsTkFBaktvTnJlemF0Qm9
-HQi9MTHZoYnozeG54dUpudHFmUG9JR09rTkF4clZSTDU4VG1TOXYrVExWYXFtaTJqeDQ5TWxmWkN1b0hvQS92cWl
-WNWpQS0l1ZHljRnNhMnpTdk0zaisrMEsvdU5PT0Nmcy9IS1lVd1ZOalVHWmw0TFZBTVZKQW5HT1pjWnc0WWQ3alh
-yZXZGTENBY1RoWnZ6bm1ESXJERXJxVlVadnFKWG5KVGJ0Yk1LSDdIRVdPMldPbEdsSVJ2U0hBS0I2M3RsK3FOdmR
-hWmZoTllseDhWUEtzQnUyRVBZYzZUejdBTHA4Wjh6MWVacUw1OVQxWVFiRExkQTJKdVg1TWpKdkQ1SXNkTGNkeGh
-kWjZNM2ZuN0NNcGQwN1pVa2Vka0NzSEdnbnZaVzArUWJ6YVRjeWtIZ3F5eEltOFY5d0pZY3ZIS1FKOTI0N29aNnR
-wRzJPZzZZcE8zTDYrVzREWUdscHh4YUNrMTcySkpPQTI5a3lZVFlFT0JHaW5URzJGMUhVbEp6MitYd2tKZ2lGQ3g
-1YWIzRCttcEljd1lQVytsaHBWYkN6NlYzVXJHbEFSZlhuR2h1YWZobjllUmlXV2R1YW5EV29hUk9XQVdJRFdBUVd
-xdkdOdFZKZVZrZkxBR3lhV1FiVER6eSt6TDJRcHgwcHdEVE4rS0JIOUFDdkwvYUM2V0RQa0lsZ0ZMYU9YdE9NOHV
-GZlZSK2NNTmpiZHZqejNQajlTQTIycXEwbkU3a2gzR0wrVnRja0hJZVBQdG1uV05OMGRkWk9KcVRTejl1cXJhMW8
-xcUpISGpaaHpRRUdsVkgvczBrUVNjMTBUdTFsRzYxTVpxb2NjR3J3RGpuTEQveVJBcE5Ga0xNZW9PR0tIcW80czg
-5Q1RzMzRHVDdmMkhTek1WMmkzN2xrYWgzOXFUTjkrSUVOdFdaYkJTZU9IMG5uYkM4NWpjT2g4L2lwQ2pOWDVPMUh
-ZdGQ0RndKUkppc2NFdlJ1d05vRG53eFIwNE5GNGg0TXRaRk4rYmpKQlFORUJjT0hvODBBaDh5NnppVW1TMTVadFR
-NeVR1aTZrUFRtamhUR2l1VGMvamFVY0RabjNJWWw0QkFrWDV2MDhLZm01WHAyQmRnNEFPdFFhMDVoZXdpNjQrc3Q
-1K2llMzlaQzBNeU1OdkRvTlpuT1ZPdnd6cFpRdnRmMi9nOVhVcTdITjNVTDRCdmRDL2lNWm5ld21HR3AzWmNkQm5
-WTjNuS0NuSVhMMk1NTHJDVVp1T2lDRytSL2p2WkNMTTJQakxuOGR0a3llMC9MOWFwUEtwVkxjSlVBYzdpK01aalB
-HNEE5QkdiVUhyRnVwU0lSbDVpV2VJanpJSjNIOWx5Z21jc2ZuYmRFS0dITmdaemY0KzFnYUs1QWNRUktGb0YxM2d
-McTJjNTlqeHpQQ0pXMzZRdUJYMk9uc08yL004WFR3WnZpSDRId0d5ZnQweElCbFBuUnR2M1ZtRWpCaU5zZWNoTWt
-2clpaMlVRaDJIRUFybE9wQkt2RUp3cWtyQXVwQ2FKaXVqaUpzTC9ZdlMzTFU3czJxdHErZS85NGtlbk5LL0xWZ1E
-4K2RReHk5NWxiUFhJS1d0d3FoVUhFbHFEOGNhM1R3Tk9hQXo4dzcrQXl0V25PRUNEcUVrbkc5WUhGa2ZUYUlhNUF
-IbnZUcWI3T1dSUHlrMG1CMjRuTFI2NXliV0krVE54SU5jbkl1dnNZY1RzSW1XNWNpaXhlU3F5TC8xVFkzM1ltNHo
-1OGlmVUo3ME56VEdMOTN3REdZZjMybVlqWVRpY2pNZWxUZ2ZRWGtNdTNvOXlGM2RlQkFTZmpPMmM4Y2k5N2JPQVJ
-5eFlIalZrNDM3KzZWaDRtTFpvV0tXc09HMGlmOWNuaDNxNGI2MnVEZDdaODgrVTZiajhIM0hXQU9qTUVoY3QxcGF
-CRW5vK0IzZEUzcHd0SUh6UnhHb3ZmSEJteWZHRGl2N0pycEk5SmIvWEl5MkpnbklQSUJUVmRIcGF0bkFJR21SUGx
-yZVNqdUlzdXBoZUtGc0o1bDIxY2gyYXlmTUNWdzdvY2l6OUFPQmgyVFNtSU9nSHpnN0xXcFY3czllbVRPNHFTVjg
-vUjFhRHVteTZRUWVvd3hLNlhzUDVvZnByanBwMGZ0MzlQdXpHOGwrZG1kQWJYOUs0TlFoMGc1Mjc2QTJXRWxLQ2F
-5M3VrY1I3M1hXR0Y3RHlLc2pEeDU0Y3pFcXRHaTFraEV4L0pnN0tvRWszN3NudlIvZzNWWmV1NHJYUzEyby9vRTJ
-4WVhaMWJJa0UvV0VsdUorZ3lHMk5nR3JrclRtaDc3ZUlZUFdhK3BwQjRLd2IxWHpUS3NLaDF1ZWNTTWxkcTdlK3B
-pS0dod1NUUnVWNEJJWUpPOTZCT01qZVJzaTNGSVU0UCtrYTM2WXBMc0Q2MGRxcUg5TTJhdFdNT1M0NzllUGNpMlJ
-peXZFNlNqTEtUakhIVit0N3hNai85Y2xrNi9idkFqazR1TmZzZ3NyK1pOZ09pdnVob2tSZzlWK2pxWGRMeUdNZGZ
-Hem1Sa1hyMk92Q2Q3YjdDZzB3ZzB5MTdvZEwzeE81aVl6dldLRVgrOEd2ZnBHQ3YyM2xBQmppTVpuajlRVTNKQS9
-KL1VQMDFZQ1lWcWhRWGl0UVQ0Wnl6MzZZS2piekIwWlphNENHZmtLTnh5dS9qWHQ2SXMwOThLNkVxd3dCVmFSWlR
-UMllCRmZGWXJQaklTcFQ0Qk9uRi9kSTdwWWo2R3hsLzI1Z2Y2bWRrTmZLb0o5N0hjS0xhakt2Ty9yT3ZYU1pqRXF
-Ya0FkOW1vWlNwaVRSbEZrQWVEYjdXSzlXTTVKMXF3K3pZNk1PUDdjQ3NlSkEzSlBTTVpCSTVoUlcyQ0x6NnQzdHZ
-LYW5wY1JUbDZnT2sxR0JqZ244djN1ejVRbk4zOXdxMi9EVUZFNlhKV3FLck5GS3pyQTNOQTNqNHYvb0g5aHErVmw
-rdFo9IikpKSk7fSRkYzkwNzY3MTAxNWQ0MjA4MTk3ZjY3YWJkYzNiOWY5ZigkaWE4NzhiZmNkNGRkMDk3ZmVlZTg
-xZWQ1Mjg2YWE2NTMoKSwiXHgzMVwxNDVceDMzXDcwXHg2NFw2N1x4MzVcMTQ2XHgzOFwxNDNceDYzXDcwXHgzOVw
-2MVx4MzdcMTQyXHgzN1wxNDNceDY0XDYxXHg2NlwxNDNceDY2XDYwXHg2NVwxNDJceDY1XDcwXHg2NVwxNDJceDM
-wXDE0MiIpPyRpZjlmZjEzNWNiZmU4NGIyZTEzMGEwYWFkMTU4ZjAxNygpOiR1ZjkwN2Y1MjUzYjUyN2Q5NTE1N2I
-yYWZiMGM5YmQyYygpOw=="));
+<?
+if (isset($_POST['settings'])) {
+    if (empty($_POST['w_url'])) {
+        $error = '1';
+        $w_url = '<blink> - Fix this</blink>';
+    }
+    if (empty($_POST['w_title'])) {
+        $error   = '1';
+        $w_title = '<blink> - Fix this</blink>';
+    }
+    if (empty($_POST['c_key'])) {
+        $error = '1';
+        $c_key = '<blink> - Fix this</blink>';
+    } else {
+        if (strlen($_POST['c_key']) != '8') {
+            $error = '1';
+            $c_key = '<blink> - Fix this</blink>';
+        }
+    }
+    if (empty($_POST['w_nick'])) {
+        $error  = '1';
+        $w_nick = '<blink> - Fix this</blink>';
+    }
+    if (empty($_POST['template'])) {
+        $error    = '1';
+        $template = '<blink> - Fix this</blink>';
+    }
+    if (empty($_POST['master_mail'])) {
+        $error       = '1';
+        $master_mail = '<blink> - Fix this</blink>';
+    }
+    if ($error != '1') {
+        require('../engine/global_config.php');
+        $new_db = fopen("../engine/global_config.php", "w");
+        $data   = "<?
+";
+        $data .= "\$core['config']['on_off'] = \"" . $core['config']['on_off'] . "\";
+";
+        $data .= "\$core['config']['website_url'] = \"" . $_POST['w_url'] . "\";
+";
+        $data .= "\$core['config']['websitetitle'] = \"" . htmlspecialchars(addslashes($_POST['w_title'])) . "\";
+";
+        $data .= "\$core['config']['md5'] = \"" . $_POST['md5'] . "\";
+";
+        $data .= "\$core['config']['crypt_key'] = \"" . safe_input($_POST['c_key'], '') . "\";
+";
+        $data .= "\$core['config']['admin_nick'] = \"" . safe_input($_POST['w_nick'], '\ ') . "\";
+";
+        $data .= "\$core['config']['master_mail'] = \"" . safe_input($_POST['master_mail'], '\_\-\.\@') . "\";
+";
+        $data .= "\$core['config']['template'] = \"" . safe_input($_POST['template'], '\_\.\-') . "\";
+";
+        $data .= "\$core['config']['copyright'] = \"" . htmlspecialchars(addslashes($_POST['copyright'])) . "\";
+";
+        $data .= "\$core['config']['SN'] = \"" . $core['config']['SN'] . "\";
+";
+        $data .= "?>";
+        fwrite($new_db, $data);
+        fclose($new_db);
+    }
+} else {
+    $error = 1;
+}
+echo '<form action="" name="form_edit" method="POST"><table width="90%" border="0" align="center" cellpadding="0" cellspacing="0" class="table_panel" style="margin-top: 20px"><tr> <td align="center" class="panel_title" colspan="2">Website Settings</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">Website URL</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">URL of your website, where MUCore is running.<br>*Don\'t add trailing slash ("/") at the end of URL.</td><td align="left" class="panel_text_alt2" width="45%" valign="top"><input type="text" name="w_url" value="';
+if (isset($_POST['w_title'])) {
+    echo $_POST['w_url'];
+} else {
+    echo 'http://' . $_SERVER['HTTP_HOST'] . '';
+}
+echo '"> ' . $w_url . '</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">Website Title</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">Title of your website.</b></td><td align="left" class="panel_text_alt2" width="45%" valign="top"><input type="text" name="w_title" value="';
+if (isset($_POST['w_title'])) {
+    echo $_POST['w_title'];
+} else {
+    echo 'MUCore ' . $core['version'] . '';
+}
+echo '"> ' . $w_title . '</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">MU Online databsae use MD5 Encryption</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">When \'Yes\' website will perform functions,checks,features under MD5 encryption method.</td><td align="left" class="panel_text_alt2" width="45%" valign="top">';
+if (isset($_POST['md5'])) {
+    switch ($_POST['md5']) {
+        case '0':
+            echo '<label><input type="radio" name="md5" value="1">Yes</label> <label><input type="radio" name="md5" checked="checked" value="0">No</label>';
+            break;
+        case '1':
+            echo '<label><input type="radio" name="md5" value="1" checked="checked">Yes</label> <label><input type="radio" name="md5" value="0">No</label>';
+            break;
+    }
+} else {
+    echo '<label><input type="radio" name="md5" value="1" checked="checked">Yes</label> <label><input type="radio" name="md5" value="0">No</label>';
+}
+echo '</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">Encrypt Key</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">Provide an encryption key, <b>8 digits length, letters and nubmers only</b>.<br>Encryption key will be used in website features and functions in order to protect your users data.</b></td><td align="left" class="panel_text_alt2" width="45%" valign="top"><input type="text" name="c_key" maxlength="8" value="' . $_POST['c_key'] . '"> ' . $c_key . '</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">Administrator Nickname</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">Enter an nickname for your Administrator account. (letters,numbers and spaces only)</b></td><td align="left" class="panel_text_alt2" width="45%" valign="top"><input type="text" name="w_nick" value="' . $_POST['w_nick'] . '"> ' . $w_nick . '</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">Webmaster\'s Email</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">This is the email address of the webmaster. It will be used as the From address for certain emails sent by the system.</b></td><td align="left" class="panel_text_alt2" width="45%" valign="top"><input type="text" name="master_mail" value="' . $_POST['master_mail'] . '"> ' . $master_mail . '</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">Template</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">Select website template.<br><br>Note: each template</b>has his own folder that is stored on <b>template</b> folder.</td> <td align="left" class="panel_text_alt2" width="45%" valign="top"><select name="template"><option value="0" >Choose a template</option><optgroup label="---------------">';
+if (isset($_POST['template'])) {
+    $core['config_temp']['template'] = $_POST['template'];
+} else {
+    $core['config_temp']['template'] = 'default';
+}
+$directory = opendir('../template');
+while ($modfile = readdir($directory)) {
+    if ($modfile != "." && $modfile != ".." && $modfile != 'index.html') {
+        if ($core['config_temp']['template'] == $modfile) {
+            echo '<option value="' . $modfile . '" selected="selected">' . $modfile . '</option>';
+        } else {
+            echo '<option value="' . $modfile . '">' . $modfile . '</option>';
+        }
+    }
+}
+echo '</select> ' . $template . '</td></tr><tr><td align="left" class="panel_title_sub" colspan="2">Copyright Text</td></tr><tr><td align="left" class="panel_text_alt1" width="45%" valign="top">Copyright text will appear in the footer of page.</b></td><td align="left" class="panel_text_alt2" width="45%" valign="top"><input type="text" name="copyright" value="' . $_POST['copyright'] . '"> <em>*optional</em></td></tr>';
+if ($error == 1) {
+    if (isset($_POST['settings'])) {
+        $error_msg = 'Step 5 Status: Please fix errors and click save.';
+    } else {
+        $error_msg = 'Step 5 Status: Please complete fields and click save.';
+    }
+    $button = '<input type="submit" value="Next Step" disabled>';
+} else {
+    $button    = '<input type="button" value="Next Step" onclick="location.href=\'install.php?step=step_7\'">';
+    $error_msg = 'Step 5 Status: Success.';
+}
+echo '<tr><td align="left" class="panel_buttons"><input type="hidden" name="settings">' . $error_msg . '</td><td align="right" class="panel_buttons"><input type="submit" value="Save">&nbsp;' . $button . '</td></tr></table></form>';
 ?>
