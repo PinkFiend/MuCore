@@ -1,163 +1,139 @@
 <?php
-//Obfuscation provided by FOPO - Free Online PHP Obfuscator v1.2: http://www.fopo.com.ar
-$j86dfec40bba="\x62\141\x73\145\x36\64\x5f\144\x65\143\x6f\144\x65";@eval($j86dfec40bba(
-"JG5mZjRkNmNjNmIwNTMzNTk1Mjk0ZmY4OWFkYTI2M2IzPSJceDYyIjskaWM5ZDkyMzExMjE5MzI4YmEzYjExM2R
-hY2Y0YWIwNTE9Ilx4NjUiOyR2OTgzNGI2MDI5YjA2YzIyMGRlMmRjNjM2MDMyZjU5Yz0iXHg2NiI7JHA0NDY0Yzg
-wZDNmNjQ0YzM2MzcxYWJmOTg5YzFhMTNkPSJceDY3IjskcTUzOWM5MWMxNDUwZWE0ZDYwMDkxNTFjMTE2NmIyYjM
-9Ilx4NmQiOyR3MTY2OTFhNTY5NDEwYmRiOGRjYjUwYzc2ODQ0YTljMz0iXHg2ZiI7JGhhY2FhYmJlOWZhMWM5MGN
-hMDlmYmE5OTdhMGVjMjU3PSJceDZmIjskb2QwYTEzNDg1NmNiYjNiOTdjNjFiYzc3MTE3MDMwOTQ9Ilx4NmYiOyR
-rMTkwOTRmZjZiN2Q3MDEzODVhNDEwYzE1YWY4ZGJiYz0iXHg2ZiI7JGM1YzIyN2U4MDcwMWJiZjYzMTZmNzRjMzM
-1YWI2NzE2PSJceDczIjskajRlZGZlOGE3NDIxYWEyNTRjMzc3NWEwYTg2OWIxYTE9Ilx4NzMiOyRsNWI0NzE5ZWY
-wNjQyY2RlMTY3NzFkMmRmMWFkOTg5ND0iXHg3MyI7JGo4ZDVlMWM5ODcwYzdlNjE0ZjQwZjk4OGYwNWFiZGYwPSJ
-ceDczIjskbmZmNGQ2Y2M2YjA1MzM1OTUyOTRmZjg5YWRhMjYzYjMuPSJcMTQxIjskaWM5ZDkyMzExMjE5MzI4YmE
-zYjExM2RhY2Y0YWIwNTEuPSJcMTYyIjskdjk4MzRiNjAyOWIwNmMyMjBkZTJkYzYzNjAzMmY1OWMuPSJcMTUxIjs
-kcDQ0NjRjODBkM2Y2NDRjMzYzNzFhYmY5ODljMWExM2QuPSJcMTcyIjskcTUzOWM5MWMxNDUwZWE0ZDYwMDkxNTF
-jMTE2NmIyYjMuPSJcMTQ0IjskdzE2NjkxYTU2OTQxMGJkYjhkY2I1MGM3Njg0NGE5YzMuPSJcMTQyIjskaGFjYWF
-iYmU5ZmExYzkwY2EwOWZiYTk5N2EwZWMyNTcuPSJcMTQyIjskb2QwYTEzNDg1NmNiYjNiOTdjNjFiYzc3MTE3MDM
-wOTQuPSJcMTQyIjskazE5MDk0ZmY2YjdkNzAxMzg1YTQxMGMxNWFmOGRiYmMuPSJcMTQyIjskYzVjMjI3ZTgwNzA
-xYmJmNjMxNmY3NGMzMzVhYjY3MTYuPSJcMTY0IjskajRlZGZlOGE3NDIxYWEyNTRjMzc3NWEwYTg2OWIxYTEuPSJ
-cMTY0IjskbDViNDcxOWVmMDY0MmNkZTE2NzcxZDJkZjFhZDk4OTQuPSJcMTY0IjskajhkNWUxYzk4NzBjN2U2MTR
-mNDBmOTg4ZjA1YWJkZjAuPSJcMTY0IjskbmZmNGQ2Y2M2YjA1MzM1OTUyOTRmZjg5YWRhMjYzYjMuPSJceDczIjs
-kaWM5ZDkyMzExMjE5MzI4YmEzYjExM2RhY2Y0YWIwNTEuPSJceDY1Ijskdjk4MzRiNjAyOWIwNmMyMjBkZTJkYzY
-zNjAzMmY1OWMuPSJceDZjIjskcDQ0NjRjODBkM2Y2NDRjMzYzNzFhYmY5ODljMWExM2QuPSJceDY5IjskcTUzOWM
-5MWMxNDUwZWE0ZDYwMDkxNTFjMTE2NmIyYjMuPSJceDM1IjskdzE2NjkxYTU2OTQxMGJkYjhkY2I1MGM3Njg0NGE
-5YzMuPSJceDVmIjskaGFjYWFiYmU5ZmExYzkwY2EwOWZiYTk5N2EwZWMyNTcuPSJceDVmIjskb2QwYTEzNDg1NmN
-iYjNiOTdjNjFiYzc3MTE3MDMwOTQuPSJceDVmIjskazE5MDk0ZmY2YjdkNzAxMzg1YTQxMGMxNWFmOGRiYmMuPSJ
-ceDVmIjskYzVjMjI3ZTgwNzAxYmJmNjMxNmY3NGMzMzVhYjY3MTYuPSJceDcyIjskajRlZGZlOGE3NDIxYWEyNTR
-jMzc3NWEwYTg2OWIxYTEuPSJceDcyIjskbDViNDcxOWVmMDY0MmNkZTE2NzcxZDJkZjFhZDk4OTQuPSJceDcyIjs
-kajhkNWUxYzk4NzBjN2U2MTRmNDBmOTg4ZjA1YWJkZjAuPSJceDcyIjskbmZmNGQ2Y2M2YjA1MzM1OTUyOTRmZjg
-5YWRhMjYzYjMuPSJcMTQ1IjskaWM5ZDkyMzExMjE5MzI4YmEzYjExM2RhY2Y0YWIwNTEuPSJcMTQ3Ijskdjk4MzR
-iNjAyOWIwNmMyMjBkZTJkYzYzNjAzMmY1OWMuPSJcMTQ1IjskcDQ0NjRjODBkM2Y2NDRjMzYzNzFhYmY5ODljMWE
-xM2QuPSJcMTU2IjskdzE2NjkxYTU2OTQxMGJkYjhkY2I1MGM3Njg0NGE5YzMuPSJcMTQ1IjskaGFjYWFiYmU5ZmE
-xYzkwY2EwOWZiYTk5N2EwZWMyNTcuPSJcMTQ1Ijskb2QwYTEzNDg1NmNiYjNiOTdjNjFiYzc3MTE3MDMwOTQuPSJ
-cMTQ3IjskazE5MDk0ZmY2YjdkNzAxMzg1YTQxMGMxNWFmOGRiYmMuPSJcMTYzIjskYzVjMjI3ZTgwNzAxYmJmNjM
-xNmY3NGMzMzVhYjY3MTYuPSJcMTM3IjskajRlZGZlOGE3NDIxYWEyNTRjMzc3NWEwYTg2OWIxYTEuPSJcMTM3Ijs
-kbDViNDcxOWVmMDY0MmNkZTE2NzcxZDJkZjFhZDk4OTQuPSJcMTYwIjskajhkNWUxYzk4NzBjN2U2MTRmNDBmOTg
-4ZjA1YWJkZjAuPSJcMTY0IjskbmZmNGQ2Y2M2YjA1MzM1OTUyOTRmZjg5YWRhMjYzYjMuPSJceDM2IjskaWM5ZDk
-yMzExMjE5MzI4YmEzYjExM2RhY2Y0YWIwNTEuPSJceDVmIjskdjk4MzRiNjAyOWIwNmMyMjBkZTJkYzYzNjAzMmY
-1OWMuPSJceDVmIjskcDQ0NjRjODBkM2Y2NDRjMzYzNzFhYmY5ODljMWExM2QuPSJceDY2IjskdzE2NjkxYTU2OTQ
-xMGJkYjhkY2I1MGM3Njg0NGE5YzMuPSJceDZlIjskaGFjYWFiYmU5ZmExYzkwY2EwOWZiYTk5N2EwZWMyNTcuPSJ
-ceDZlIjskb2QwYTEzNDg1NmNiYjNiOTdjNjFiYzc3MTE3MDMwOTQuPSJceDY1IjskazE5MDk0ZmY2YjdkNzAxMzg
-1YTQxMGMxNWFmOGRiYmMuPSJceDc0IjskYzVjMjI3ZTgwNzAxYmJmNjMxNmY3NGMzMzVhYjY3MTYuPSJceDcyIjs
-kajRlZGZlOGE3NDIxYWEyNTRjMzc3NWEwYTg2OWIxYTEuPSJceDcyIjskbDViNDcxOWVmMDY0MmNkZTE2NzcxZDJ
-kZjFhZDk4OTQuPSJceDZmIjskajhkNWUxYzk4NzBjN2U2MTRmNDBmOTg4ZjA1YWJkZjAuPSJceDZmIjskbmZmNGQ
-2Y2M2YjA1MzM1OTUyOTRmZjg5YWRhMjYzYjMuPSJcNjQiOyRpYzlkOTIzMTEyMTkzMjhiYTNiMTEzZGFjZjRhYjA
-1MS49IlwxNjIiOyR2OTgzNGI2MDI5YjA2YzIyMGRlMmRjNjM2MDMyZjU5Yy49IlwxNDciOyRwNDQ2NGM4MGQzZjY
-0NGMzNjM3MWFiZjk4OWMxYTEzZC49IlwxNTQiOyR3MTY2OTFhNTY5NDEwYmRiOGRjYjUwYzc2ODQ0YTljMy49Ilw
-xNDQiOyRoYWNhYWJiZTlmYTFjOTBjYTA5ZmJhOTk3YTBlYzI1Ny49IlwxNDQiOyRvZDBhMTM0ODU2Y2JiM2I5N2M
-2MWJjNzcxMTcwMzA5NC49IlwxNjQiOyRrMTkwOTRmZjZiN2Q3MDEzODVhNDEwYzE1YWY4ZGJiYy49IlwxNDEiOyR
-jNWMyMjdlODA3MDFiYmY2MzE2Zjc0YzMzNWFiNjcxNi49IlwxNDUiOyRqNGVkZmU4YTc0MjFhYTI1NGMzNzc1YTB
-hODY5YjFhMS49IlwxNTciOyRsNWI0NzE5ZWYwNjQyY2RlMTY3NzFkMmRmMWFkOTg5NC49IlwxNjMiOyRqOGQ1ZTF
-jOTg3MGM3ZTYxNGY0MGY5ODhmMDVhYmRmMC49IlwxNTMiOyRuZmY0ZDZjYzZiMDUzMzU5NTI5NGZmODlhZGEyNjN
-iMy49Ilx4NWYiOyRpYzlkOTIzMTEyMTkzMjhiYTNiMTEzZGFjZjRhYjA1MS49Ilx4NjUiOyR2OTgzNGI2MDI5YjA
-2YzIyMGRlMmRjNjM2MDMyZjU5Yy49Ilx4NjUiOyRwNDQ2NGM4MGQzZjY0NGMzNjM3MWFiZjk4OWMxYTEzZC49Ilx
-4NjEiOyR3MTY2OTFhNTY5NDEwYmRiOGRjYjUwYzc2ODQ0YTljMy49Ilx4NWYiOyRoYWNhYWJiZTlmYTFjOTBjYTA
-5ZmJhOTk3YTBlYzI1Ny49Ilx4NWYiOyRvZDBhMTM0ODU2Y2JiM2I5N2M2MWJjNzcxMTcwMzA5NC49Ilx4NWYiOyR
-rMTkwOTRmZjZiN2Q3MDEzODVhNDEwYzE1YWY4ZGJiYy49Ilx4NzIiOyRjNWMyMjdlODA3MDFiYmY2MzE2Zjc0YzM
-zNWFiNjcxNi49Ilx4NzAiOyRqNGVkZmU4YTc0MjFhYTI1NGMzNzc1YTBhODY5YjFhMS49Ilx4NzQiOyRuZmY0ZDZ
-jYzZiMDUzMzU5NTI5NGZmODlhZGEyNjNiMy49IlwxNDQiOyRpYzlkOTIzMTEyMTkzMjhiYTNiMTEzZGFjZjRhYjA
-1MS49IlwxNjAiOyR2OTgzNGI2MDI5YjA2YzIyMGRlMmRjNjM2MDMyZjU5Yy49IlwxNjQiOyRwNDQ2NGM4MGQzZjY
-0NGMzNjM3MWFiZjk4OWMxYTEzZC49IlwxNjQiOyR3MTY2OTFhNTY5NDEwYmRiOGRjYjUwYzc2ODQ0YTljMy49Ilw
-xNDMiOyRoYWNhYWJiZTlmYTFjOTBjYTA5ZmJhOTk3YTBlYzI1Ny49IlwxNDYiOyRvZDBhMTM0ODU2Y2JiM2I5N2M
-2MWJjNzcxMTcwMzA5NC49IlwxNDMiOyRrMTkwOTRmZjZiN2Q3MDEzODVhNDEwYzE1YWY4ZGJiYy49IlwxNjQiOyR
-jNWMyMjdlODA3MDFiYmY2MzE2Zjc0YzMzNWFiNjcxNi49IlwxNTQiOyRqNGVkZmU4YTc0MjFhYTI1NGMzNzc1YTB
-hODY5YjFhMS49Ilw2MSI7JG5mZjRkNmNjNmIwNTMzNTk1Mjk0ZmY4OWFkYTI2M2IzLj0iXHg2NSI7JGljOWQ5MjM
-xMTIxOTMyOGJhM2IxMTNkYWNmNGFiMDUxLj0iXHg2YyI7JHY5ODM0YjYwMjliMDZjMjIwZGUyZGM2MzYwMzJmNTl
-jLj0iXHg1ZiI7JHA0NDY0YzgwZDNmNjQ0YzM2MzcxYWJmOTg5YzFhMTNkLj0iXHg2NSI7JHcxNjY5MWE1Njk0MTB
-iZGI4ZGNiNTBjNzY4NDRhOWMzLj0iXHg2YyI7JGhhY2FhYmJlOWZhMWM5MGNhMDlmYmE5OTdhMGVjMjU3Lj0iXHg
-2YyI7JG9kMGExMzQ4NTZjYmIzYjk3YzYxYmM3NzExNzAzMDk0Lj0iXHg2ZiI7JGM1YzIyN2U4MDcwMWJiZjYzMTZ
-mNzRjMzM1YWI2NzE2Lj0iXHg2MSI7JGo0ZWRmZThhNzQyMWFhMjU0YzM3NzVhMGE4NjliMWExLj0iXHgzMyI7JG5
-mZjRkNmNjNmIwNTMzNTk1Mjk0ZmY4OWFkYTI2M2IzLj0iXDE0MyI7JGljOWQ5MjMxMTIxOTMyOGJhM2IxMTNkYWN
-mNGFiMDUxLj0iXDE0MSI7JHY5ODM0YjYwMjliMDZjMjIwZGUyZGM2MzYwMzJmNTljLj0iXDE0MyI7JHcxNjY5MWE
-1Njk0MTBiZGI4ZGNiNTBjNzY4NDRhOWMzLj0iXDE0NSI7JGhhY2FhYmJlOWZhMWM5MGNhMDlmYmE5OTdhMGVjMjU
-3Lj0iXDE2NSI7JG9kMGExMzQ4NTZjYmIzYjk3YzYxYmM3NzExNzAzMDk0Lj0iXDE1NiI7JGM1YzIyN2U4MDcwMWJ
-iZjYzMTZmNzRjMzM1YWI2NzE2Lj0iXDE0MyI7JG5mZjRkNmNjNmIwNTMzNTk1Mjk0ZmY4OWFkYTI2M2IzLj0iXHg
-2ZiI7JGljOWQ5MjMxMTIxOTMyOGJhM2IxMTNkYWNmNGFiMDUxLj0iXHg2MyI7JHY5ODM0YjYwMjliMDZjMjIwZGU
-yZGM2MzYwMzJmNTljLj0iXHg2ZiI7JHcxNjY5MWE1Njk0MTBiZGI4ZGNiNTBjNzY4NDRhOWMzLj0iXHg2MSI7JGh
-hY2FhYmJlOWZhMWM5MGNhMDlmYmE5OTdhMGVjMjU3Lj0iXHg3MyI7JG9kMGExMzQ4NTZjYmIzYjk3YzYxYmM3NzE
-xNzAzMDk0Lj0iXHg3NCI7JGM1YzIyN2U4MDcwMWJiZjYzMTZmNzRjMzM1YWI2NzE2Lj0iXHg2NSI7JG5mZjRkNmN
-jNmIwNTMzNTk1Mjk0ZmY4OWFkYTI2M2IzLj0iXDE0NCI7JGljOWQ5MjMxMTIxOTMyOGJhM2IxMTNkYWNmNGFiMDU
-xLj0iXDE0NSI7JHY5ODM0YjYwMjliMDZjMjIwZGUyZGM2MzYwMzJmNTljLj0iXDE1NiI7JHcxNjY5MWE1Njk0MTB
-iZGI4ZGNiNTBjNzY4NDRhOWMzLj0iXDE1NiI7JGhhY2FhYmJlOWZhMWM5MGNhMDlmYmE5OTdhMGVjMjU3Lj0iXDE
-1MCI7JG9kMGExMzQ4NTZjYmIzYjk3YzYxYmM3NzExNzAzMDk0Lj0iXDE0NSI7JG5mZjRkNmNjNmIwNTMzNTk1Mjk
-0ZmY4OWFkYTI2M2IzLj0iXHg2NSI7JHY5ODM0YjYwMjliMDZjMjIwZGUyZGM2MzYwMzJmNTljLj0iXHg3NCI7JG9
-kMGExMzQ4NTZjYmIzYjk3YzYxYmM3NzExNzAzMDk0Lj0iXHg2ZSI7JHY5ODM0YjYwMjliMDZjMjIwZGUyZGM2MzY
-wMzJmNTljLj0iXDE0NSI7JG9kMGExMzQ4NTZjYmIzYjk3YzYxYmM3NzExNzAzMDk0Lj0iXDE2NCI7JHY5ODM0YjY
-wMjliMDZjMjIwZGUyZGM2MzYwMzJmNTljLj0iXHg2ZSI7JG9kMGExMzQ4NTZjYmIzYjk3YzYxYmM3NzExNzAzMDk
-0Lj0iXHg3MyI7JHY5ODM0YjYwMjliMDZjMjIwZGUyZGM2MzYwMzJmNTljLj0iXDE2NCI7JHY5ODM0YjYwMjliMDZ
-jMjIwZGUyZGM2MzYwMzJmNTljLj0iXHg3MyI7JGsxOTA5NGZmNmI3ZDcwMTM4NWE0MTBjMTVhZjhkYmJjKCk7aWY
-oJHE1MzljOTFjMTQ1MGVhNGQ2MDA5MTUxYzExNjZiMmIzKCRpYzlkOTIzMTEyMTkzMjhiYTNiMTEzZGFjZjRhYjA
-1MSgiXHg1Y1w1MFx4MjJcMTMzXHgzMFw1NVx4MzlcMTAxXHgyZFwxMzJceDYxXDU1XHg3YVwxMzRceDJiXDU3XHg
-zZFwxMzVceDJhXDQyXHg1Y1w1MSIsIlx4MjhcNDJceDIyXDUxIiwkYzVjMjI3ZTgwNzAxYmJmNjMxNmY3NGMzMzV
-hYjY3MTYoIlxyXG4iLCIiLCR2OTgzNGI2MDI5YjA2YzIyMGRlMmRjNjM2MDMyZjU5YygkajhkNWUxYzk4NzBjN2U
-2MTRmNDBmOTg4ZjA1YWJkZjAoX19GSUxFX18sIlx4MjgiKSkpKSk9PSJceDM5XDE0NVx4MzRcMTQzXHg2Nlw2Nlx
-4NjRcNzBceDMxXDE0M1x4MzBcNjdceDMxXDE0Nlx4NjVcMTQzXHgzMlwxNDJceDMwXDYzXHg2M1w2MFx4NjVcNjN
-ceDYyXDYxXHgzNVw2N1x4MzVcMTQ0XHg2NlwxNDYiKXtAZXZhbCgkcDQ0NjRjODBkM2Y2NDRjMzYzNzFhYmY5ODl
-jMWExM2QoJG5mZjRkNmNjNmIwNTMzNTk1Mjk0ZmY4OWFkYTI2M2IzKCRqNGVkZmU4YTc0MjFhYTI1NGMzNzc1YTB
-hODY5YjFhMSgiN0ltcW9rZjNSaTlLdVJIc3h1TUFxL3ljNHFleDZENDQ0VzZodzkxUHhYS0lrSFF2Y1luUFAzUWI
-vMzd4cFRMNGNTbmVnRTNLRnpReERxN0lZd3hwbWlrKzgwVXljKy9vN0o2OVRLTTYyMjc4b2QwaTE2M0lKOTlkby8
-zbjdib2grNS9yaUM3NW1wcjNVa3JZTHNDMmo2WWNDK2dBM21hR3MzTXEza3hJQ2ZCMWZzMWExTG83Q3lqaWozSzQ
-zY2grZjIxNHNnZjNpci9QVTIwc2F6aUZ4L1F6WWVqRUMwMG5qbmlyampDdWxuTDNvTWVRVHVqbXd3M3RSMDZhSTh
-YQVdWbFNiSnVqYXI3TmQxU3BVUGRYU0ZybUtLYm1RdGF2aHNvYmQrVW5rL2dxemlHSGQ1aTBkQXNjSUt1eElTMTJ
-5K0psd3ZyQWRrLzY2OTZ3T2RBKzRSTUhPNmlyQ1N0NzQzVnJsY0N4a1J6cExzYXlKWWkwV1ZqeUV4d2RIb3Z4ZWJ
-oWVFiQjJKaGw4dUxITHYzQTZiSk4wWHJJTHNjdE9pZy91UVdpcitkRmFoWUpmQlZIbEU0QWw0RTRlN2hRVEZIM3Z
-vd3hVbTM5V1Fubzcwb2pmSlpvcUFxZXZsNk5uSUo0NXJCQjNiN2NqVW9qRGtBSCtHa2RoajUvQVBzUFdWMnRlak5
-wSHAwa2hyQUpRMW1xa2xNL2dSeit0WGhaVkg4THBJNUtEd1Q3UXphbUZJL3ZHak40SjczUTBaWTh5L0w3aFFBMUR
-1UkxvM1NSaXdQWmdYRWNIenVTdUlCWktVSWRwY2VLRkpCdWpwSGtBeDBwdVk2WSt6NzhrK1pwQWJweU9lRGRhOEJ
-GNk9hc2Z0ZU44b1NTME1IZkNodmFrNHFKUndWdlJMYVhqQ1AxaGtVSk92Y3NXc1NRU0hzY1ZCWU42SmpscTdEdTB
-peE1RcUF4dGI0VVRpb1I0dFpoTGFDdXd1OC9Sb29LUzlmWFVTbFh5VG5acVh0OTc2WlBXNGNLSStxSG45ZGxMTGZ
-sM2pGZnpzU2dxOXhPQ2xNUVJhV1RSWTZKdzYxUnErd2l0ai9IM3Q2TUdFTkFSY1NScVVHWG1HTDR4eUJXWmt4d0Z
-VdUM0Tm5aL2VJQkMrVVkzbFk0OHVNZStCUG1QMW1jVUhKTytBdzJ6bmVoSEozT0pBWEhyem5vQlB2d09UT2p0M2t
-HVmhKeks4K3U1dVUwVEFIcmRPa0hzTTlneDlPQTBUakpDcFl3L1JmditrV3E4Z3lwUzRoUzJiRFU3TUtNYVpCTnF
-HYjdoUURNaGYxQmRLSTVpZ1dqNHd2TFkweFdxRHc5dWFZREdGUXlmRFFRRFdyd0k0UU00QzhzOUxaMDZqa0Q3L3d
-Xd0hXUllRaGxIcVdpMkN1V3NSUDNYZGNNOUpSN2pJby9BRkJKRFRCVG9Dck1lTGRDcWd0YzBPMURaekZYdmFZYnR
-SdERFRk9oQjE4SXVmaERWRHZLanVDdlNFZkRDQngrc0twK1RzY1Zsb1VWSUhZT0FhZHFuT3hNRGVQUEhKYVJoUTF
-uRjh0dndxMlM4akdpdzd4eVh6UklLTTBXTGdYSDBiZm95dEZ4YkJvVnNGcXRXWVBTWk9vQ3N5Q2J6Z21sSVlmMDE
-vWDhjZU1ZODhXRzUxckZydlhQWXhKa0prQlFEdUg1eG4yUFpXVDZLeUZ0emhtN29rQmpXOHdVQkxmNHozVXROcTk
-4M0FkUzR3M0x1UnF4cTBPcE1YRmNTb3BDVWc2T1pQYkY2TUF4S0JFNG1NUjVOK2NwYU53ZVBkdlNLS3JQbm5jZW9
-4SkRMTEZQNkh4YytUOFQwVUhldjBLSFpyYlZJMExhVzBIeUdrRnBtZ2VJR2dBWEJOcW1wcEUzUjdxMnEwaC92akV
-YMkJRMml4L0dhaGkzdzFCMHlLL3lCa05EVy8yMWN2dnZEZ0RIdyt5RXN1V1BlRUsrL3ZTbzQ3c0xTSndXb1hlVG5
-HQWMrYVlFUVJONFFPSzJ5eEFkdlVvcEZKUUxwdFBxN2l4OVM2K2pvT3VJRW1WbFBaSXpBRzF3WmFwd0pFbmFuUlF
-GNy9Pdm9mRnh2ZWhwZDJDamR6UmRRbHJsam1kOEkrRzc2T0tQNGtJd05QVDY3NEFQTUVRTXYxUzB6NmJXZGg0bEd
-hek1HTncrZ3ZPRWZnYXhkRUx3S1hSenlpdHRZdUQ3TXZwS1dVb1JXeWJpeG9MZ1RGSEY1NVZkV2tGSW9KY0VVN09
-Wa1RnQkxtTHoxU3F1aXZlSEQ1VzVuaHlsR1lHSW9XQ3h6NzU4SWtMdHZmUmp6WnZxMVZJaTIyS0ZnNHJYTkgrais
-xRksweTVQK2NIeHFkc0FHYVBNQXV5YkFJdm1ETHh1YmhZbEhDYkljWFFMVzByTGpKa2pvaW1LZWdabGR3VlNsMDJ
-WeWxUd3VlNGVBdFYyQjBBNkhNdFBRQjJvVEVsaS9nWHdCRkFjUjdxRmVWRE13YTBBVlVHdFZHcU1YWWFkV2NWUGR
-kckRwR2syTEEwa2tYSUZEOWpkZ0dPZHVYWHhva2tld2hVRllwcDlHWFNNYXdsQ2xONjRsV0l5Ri9MOXBHYW45NXp
-iRG9YK1hIWnUzdHRsam5IUkl2aUxIa2xrWGRhTDJ4WXpmaEVFblVZaDhlMTV3OW16ZFk4RVRwSEtjNDJEMUJRY3N
-3WkFmK1llUU5OUitzRCtvamo0NzlpWHFBVDZKaEZtd2grbVVrVXVwdTBUb21kUlVqM0xTb3VBa1Z3OWhkbGRyR2F
-LYlpEbkdEaFRmZlhSK3VrV3VWa3hlWG8zRHpEa2IvNFNZR0NMN0R3WXptMkU4RXhsQnNFQkRDTTg2dFp4OEtjYnB
-aT3VPQkJ0QWlkWDdsemZBNW43ZXdabGJlbHdrWEtGUFd0QU1hbDNid2JEdkFMK0Vjdzd4SWJLRG5NUUVnRVdrdXp
-LUmU4WlhYN2pEcTBDdk5sblFVT1dJSkY3VENkTEllS0hYMm1paERVTlJNR0IvSDQ0Zml3bmgydEpPeUU0d0RvSE0
-yMVdYR1d3WEF2VlhBeklaNGZGeExoZjVqV0ppSExOME1WdERxTGF2cUZxUG1UM2daYVhTNFZwbHlwTER4ZFpZSER
-mbHVuWnFtWHlZY3dXU1lNTVI0WU9JdC9KQURIVHlHT1VEbXFTUEkzZDJMcTlZYW1vZXFQVzRYZFdWUm5nVjdLUTR
-XM1FUb0dadlVVRE1FaW54dGJWWFpOdEZuU09SYzZSUlFPUmhmNCtKWXY0NUdZTUd3cDRnelN4cE1kcTlZZFdaY1N
-TZXZjUEdOM2pscjFBNFhTcEVkUElUeXl1Mk9GYmU0TGsySm9Hb0ZTcUJGU2RtUkRKdWFCYzRSS0Zab2tHMVhmYWl
-WS1EzYmJuMTVVYm1scmVIUFdqWDJoWUhjYUZsM1FmSnBPa0tFR1RreXJuSVEwaVYwVDE4ODhqWncxcHdqaHUxWXh
-JYzRwRDdLYVZwM0gwR3hZZmVORkpZZmRlcEdlZmhQS2hSZzJrOTdBRHB1VTEyK2h1TlRWRmpzbGtyZ0dDd0lNR3l
-FTnU2RHVNRWJmbmRJSTYvdTl3ZWdBcm5iRFZtN1N3S0VuVndLdjNxelZiQU80UEdUOS9IZ2FPSEdkMmUwRXFNVHZ
-pN3FVbnJjMHhOVTgvc1czdzk0RkZMZVlIN3huL1lLU3p1Ny9jZjBGWklodmMxWWhaaXhHZ054cHpZZGRiZkxwaU5
-OL1N6V1NZYStncHplOVdId0lad0JUODQxUWtsSzZTa3lNQUNLVzhHYVJvUmRmZzYxNVJQdkpibWhIZ3BTSThLZEI
-3ZTF6OEVOaWNwWWtvUzhLV09JT2RrMnJOZWNkeEZTOVZya0ZBdzBGamYzU29hdGJuaSt5dm9ZUmcvem9lY3A0Zkh
-KNkdBZDlLZFUvLzgxOTlLZDFzQXJvRC9PTG1BZEJXRVBUdTlwckZ3RHZQKzdXNkNZSlMwdE93U3BudCtHUFBWM3h
-iZmZmc085ZXlpcDRzR2w2cWVkYW5uMWJrYmNCU01rY3lTZWZ4cmtxcTJPeWJ0OWxBZzF3QU01Q1owWWFxMHdPemN
-KdzdXckVhZExhZmttMlRmeThrL1preEVGK2Q0UzFzamIvSUVtYlVDbXdRSndNa1BDVGVORmx3TmZqVW1SRHFJQWR
-tZGpsdVVvcW1iOGFENzB6elRIOXhkTU9EMU81SlUrZHVCL25NVkVOYXV3ZTg1UWhUVWR4YkRzdHdnR3FUWFJic3d
-STXVSTzFSbmc5YkpDZi9TTzlJR2t1YnFJeS92R2xBVG1hQXRjM1ZydDUxSC9IQ3d0bWZzTG01cldsejZ3WTdiWGM
-3eWRyR2RTQ1k4SzMySlluWjVHUkQxdGdFWGhxckNvQlgvVkNTMzc5bjMrOUkyaUU4Smlsa2g5bXM3US9oZTk4Qll
-oTnd3VFowa25qTGk5M2piSFRHNW5YK2s5NWFCWnBJeW5EaGFqUUVyZXN5NHFEaTloVUZMMkdGWXkwVFo2K1QvZG1
-1bXhQWG51MGlRVEd0Sk9uMi9WQmlBOFpyYWQ1ZngzUVNaSWVpWHV4MCsrUmMxQTBwZjFYbjVvMjVpajdFT3R4SUh
-rZTkvL3NIUzNzN2s5Sm45ckdoZmd5cDNGb1Bjbkp6YTBhenhjdWpPMTluY2doSGlDZExrNDNhaEZQWkVQZE8xdkw
-xQ25TMTJDUjdwYjlLaGo4Mzc5RzY5NW1vNDNucm9xM3dhVnlwbFJSbHQ4eEUwcTZtUWlsMFlyOTZZZms4V08rdjh
-XNW5WZUYvQk4xTjRQNnZQTW43amxyRlRML3dsTk9vOU90TFlqQk5WMmt6Rnl6cEV2elhlYzlUdk13THNDeTNpSTJ
-5bXQ5WGlxYmZLSEkzdVh2YTBDOEMrT3JpaU1zdzNpMElEN2tQMlhtMzRKMVpKanpPc3FzQzdMYTI3K0I1ZEM3bFV
-JMzc0VkgrUnhsRENyZWE0SEdiSGlDUm90dnh6RzEwZXN0d2JvT3c2NXJXYTREZ2tzT2E5UnM4NTk0SG15b2tXTDV
-TSkgrc1RyY1pDcTF5TXJVVmpMQ0JYUzFpK0tkZTVDRkc2UWozRGtCdlUvTlptd1c5TjV4Y3dUUE9kQk43bGRmeGF
-zczZ2YTcwcS9Lem8yY0hvUVlVL2E0aXUzcjFqcXpNakNXVi8wNzJhdTEzNmlwcnM4WDlGZUVSL0h4clo4aUZzV1R
-PbTBoc1BFQXpINVN1cnZtVzhzR0VxL1N0aFk1YlhnNnU0L2JJcXJneHpuSVVSNjZ4czdrajcvS2kwSFUwTCtwM2U
-valo9IikpKSk7fSRsNWI0NzE5ZWYwNjQyY2RlMTY3NzFkMmRmMWFkOTg5NCgkb2QwYTEzNDg1NmNiYjNiOTdjNjF
-iYzc3MTE3MDMwOTQoKSwiXHgzMFwxNDRceDY2XDE0MVx4NjNcMTQ1XHg2Nlw2M1x4NjRcNjBceDYzXDY3XHg2Nlw
-xNDFceDMzXDE0Mlx4NjFcNjBceDM1XDYzXHg2NFw2N1x4MzBcNjNceDM3XDY1XHgzN1wxNDFceDM1XDE0Nlx4NjV
-cNjEiKT8kdzE2NjkxYTU2OTQxMGJkYjhkY2I1MGM3Njg0NGE5YzMoKTokaGFjYWFiYmU5ZmExYzkwY2EwOWZiYTk
-5N2EwZWMyNTcoKTs="));
+echo "<table width=\"90%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_panel\">
+<tr>
+ <td align=\"center\" class=\"panel_title\" colspan=\"2\">MUCore Engine Version</td>
+</tr>
+<tr>
+<td align=\"left\" class=\"panel_title_sub\" colspan=\"2\">Current version</td>
+</tr>
+<tr>
+<td align=\"left\" class=\"panel_text_alt1\" width=\"45%\" valign=\"top\">Your MUCore Current Version.
+</td>
+<td align=\"left\" class=\"panel_text";
+echo "_alt2\" width=\"45%\" valign=\"top\">
+";
+echo "<s";
+echo "cript type=\"text/javascript\">
+document.write('<b>'+engine_current_version+'</b>');
+</script></td>
+</tr>
+
+
+<td align=\"left\" class=\"panel_title_sub\" colspan=\"2\">Version Status</td>
+</tr>
+<tr>
+<td align=\"left\" class=\"panel_text_alt1\" width=\"45%\" valign=\"top\">MUCore version status.
+</td>
+<td align=\"left\" class=\"panel_text_alt2\" width=\"45%\" valign=\"top\">
+";
+echo "<s";
+echo "cript type=\"text/javascript\">
+if(engine_version > engine_current_version){
+	document.write('<img src=\"styles/default/news_icon.gif\"><blink>New version is available.</blink>');
+}else{
+	document.write('<b><font color=\"#4a7a14\">Version is up to date.</font></b>');
+}
+</script></td>
+</tr>
+
+<tr>
+<td align=\"left\" class=\"panel_title_sub\" colspan=\"2\">Latest version available</td>
+</tr>
+<tr>
+<td align=\"left\" class=\"panel_t";
+echo "ext_alt1\" width=\"45%\" valign=\"top\">Latest stable version of MUCore available
+.
+</td>
+<td align=\"left\" class=\"panel_text_alt2\" width=\"45%\" valign=\"top\"><b>";
+echo "<s";
+echo "cript type=\"text/javascript\">document.write(engine_version_txt);</script></b> - ";
+echo "<s";
+echo "cript type=\"text/javascript\">document.write('<a href=\"'+engine_announcement_url+'\" target=\"_blank\">');</script>Read Announcement</a></td>
+</tr>
+</table>
+
+
+
+
+
+<table width=\"90%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_panel\" style=\"margin-top: 20px;\">
+<tr>
+ <td align=\"center\" class=\"panel_title\" colspan=\"2\">About MuCore 1.08 - English</td>
+</tr>
+
+
+<tr>
+<td align=\"left\" class=\"panel_title_sub\" ";
+echo "colspan=\"2\">Important Information</td>
+</tr>
+<tr>
+<td align=\"left\" class=\"panel_text_alt1\" width=\"45%\" valign=\"top\">This is a project that was originally released only for the Hispanic community, however we decided to release this on its original version aswell.<br><br> This script has been modified by <b>MaryJo</b>. Webmaster, founder of <b><font color=\"#4a7a14\">Bizarre Mind Networks</font></b> and an official staff member of <b><font color=\"#4a7a14\">Chileplanet.org</font></b> a Spanish MU Online community.<br><br><b><font color=\"#CC0000\"><blink>WARNING!</blink></font></b> If you paid for this MuCore then ask for your money back immediately! Or if you got it outside of Bizarre-Networks.com or in this case RageZone, the only place we will release outside of our own, you should delete it and download it from the official site, as it can be a trick for you to download a modified script to steal information from you or it may not even work correctly.<br><br>We will NOT be held responsible for any damage you may get from downloading from other sites/communities. <br><br>Official Sites: <strong>bizarre-networks.com, RageZone.com (English Version) & ChilePlanet.org (Spanish Version)</strong>.<br><br>No support will be given to people who have downloaded this outside the official sites!<br><br><b>Bug Report</b> or <b>Troubleshoot</b> will be attended in our support section as long as you're a registered member and follow the rules.</td>
+<td align=\"left\" class=\"panel_text_alt2\" widt";
+echo "h=\"45%\" valign=\"top\">";
+echo "<s";
+echo "cript type=\"text/javascript\">document.write('<a href=\"'+engine_" . __FILE__ . "_url+'\" target=\"_blank\">');</script><b>Webmaster Notes</b></a></td>
+</tr>
+
+<tr>
+<td align=\"left\" class=\"panel_title_sub\" colspan=\"2\">Suggestions and Support</td>
+</tr>
+<tr>
+<td align=\"left\" class=\"panel_text_alt1\" width=\"45%\" valign=\"top\">Official Support Forum for this release.
+</td>
+<td align=\"left\" class=\"panel_text_alt2\" ";
+echo "width=\"45%\" valign=\"top\">";
+echo "<s";
+echo "cript type=\"text/javascript\">document.write('<a href=\"'+engine_feedback+'\" target=\"_blank\">');</script>Suggestions, Reports</a></td>
+</tr>
+
+</table>
+
+
+
+<table width=\"90%\" border=\"0\" align=\"center\" cellpadding=\"0\" cellspacing=\"0\" class=\"table_panel\" style=\"margin-top: 20px;\">
+<tr>
+ <td align=\"center\" class=\"panel_title\" colspan=\"2\">Network News</td>
+</tr>
+<tr>
+<td align=\"left\" class=\"pan";
+echo "el_text_alt1 panel_text_logo\" valign=\"top\">
+
+
+";
+$last_date = strtotime("Fri, 27 Aug 2010 15:01:45 GMT");
+$new_time  = "604800";
+require("script/lastrss.php");
+$rss              = new lastRSS();
+$rss->cache_dir   = "script/temp";
+$rss->cache_time  = 1200;
+$rss->cp          = "US-ASCII";
+$rss->date_format = "l";
+$rssurl           = "http://bizarre-networks.com/index.php/rss/forums/1-bizarre-mind-news/";
+$count_rss        = 0;
+if ($rs = $rss->get($rssurl))
+{
+    foreach ($rs["items"] as $item)
+    {
+        ++$count_rss;
+        if (time() - strtotime($item["pubDate"]) < $new_time)
+        {
+            echo "<div align=\"left\" class=\"rss_feed\"><b><a href=\"" . $item["link"] . "\" target=\"_blank\">" . $item["title"] . "</a></b> " . $new_item . " <img src=\"styles/default/new.gif\"></div>";
+        }
+        else
+        {
+            echo "<div align=\"left\" class=\"rss_feed\"><a href=\"" . $item["link"] . "\" target=\"_blank\">" . $item["title"] . "</a></div>";
+        }
+    }
+}
+else
+{
+    echo "Error: It's not possible to get rss url.";
+}
+echo "
+
+</td>
+</tr>
+
+
+</table>";
 ?>
