@@ -7,14 +7,14 @@
 \*------------------------------------------*/
 /**
 * @+===========================================================================+
-* @¦ MuCore 1.0.8 English.       					       ¦
-* @¦ Credits: Isumeru & MaryJo  					       ¦
-* @¦ +=======================================================================+ ¦
-* @¦ ¦  "He who Copy/Pastes Shall Inherit My Mistakes But Not My Knowledge"  ¦ ¦
-* @¦ +=======================================================================+ ¦
-* @¦ Official Site:   http://bizarre-networks.com                              ¦
+* @ï¿½ MuCore 1.0.8 English.       					       ï¿½
+* @ï¿½ Credits: Isumeru & MaryJo  					       ï¿½
+* @ï¿½ +=======================================================================+ ï¿½
+* @ï¿½ ï¿½  "He who Copy/Pastes Shall Inherit My Mistakes But Not My Knowledge"  ï¿½ ï¿½
+* @ï¿½ +=======================================================================+ ï¿½
+* @ï¿½ Official Site:   http://bizarre-networks.com                              ï¿½
 * @+===========================================================================+
-* @¦ Our Allied Site: http://chileplanet.org                                   ¦
+* @ï¿½ Our Allied Site: http://chileplanet.org                                   ï¿½
 * @+===========================================================================+
 */
 
@@ -96,7 +96,7 @@ $core['db_password2'] = "SQL-Pass";
 
 $core['admin_username'] = 'Admin';
 
-$core['admin_password'] = '1234';
+$core['admin_password'] = 'test';
 
 #####################################################
 
@@ -142,14 +142,14 @@ $core['debug'] = 0;
 ##########################################
 /**
 * @+===========================================================================+
-* @¦ MuCore 1.0.8 English.       					       ¦
-* @¦ Credits: Isumeru & MaryJo  					       ¦
-* @¦ +=======================================================================+ ¦
-* @¦ ¦  "He who Copy/Pastes Shall Inherit My Mistakes But Not My Knowledge"  ¦ ¦
-* @¦ +=======================================================================+ ¦
-* @¦ Official Site:   http://bizarre-networks.com                              ¦
+* @ï¿½ MuCore 1.0.8 English.       					       ï¿½
+* @ï¿½ Credits: Isumeru & MaryJo  					       ï¿½
+* @ï¿½ +=======================================================================+ ï¿½
+* @ï¿½ ï¿½  "He who Copy/Pastes Shall Inherit My Mistakes But Not My Knowledge"  ï¿½ ï¿½
+* @ï¿½ +=======================================================================+ ï¿½
+* @ï¿½ Official Site:   http://bizarre-networks.com                              ï¿½
 * @+===========================================================================+
-* @¦ Our Allied Site: http://chileplanet.org                                   ¦
+* @ï¿½ Our Allied Site: http://chileplanet.org                                   ï¿½
 * @+===========================================================================+
 */
 ?>
